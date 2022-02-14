@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Mohit Singh!](https://github.com/ks3122001/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-sharma-3b35661a8/)
+[![Linkedin Badge](https://www.linkedin.com/in/mohit-singh-33719619a//)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ks3122001.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/KunalSh3122001)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kirro_sharma/)
