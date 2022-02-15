@@ -96,10 +96,10 @@ I'm a 18 year old student pursuing BTech in Computer Science 🎓 from AKTU Univ
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 10 & Parrot OS </li>
-	    <li><b>Laptop: </b> Dell Latitude (i5)</li>
-  	    <li><b>Browser: </b> Firefox Developer Edition</li>
-	    <li><b>Code Editor:</b> JetBrains & VSCode</li>
+  	    <li><b>OS:</b> macOS Monterey </li>
+	    <li><b>Laptop: </b> MacBook Air (M1)</li>
+  	    <li><b>Browser: </b> Safari </li>
+	    <li><b>Code Editor:</b> Xcode & VSCode</li>
 	    <li><b>To Stay Updated:</b> <a href="https://theepiccode.com">The Epic Code</a></li>
 	    <br />
 	</ul>	
@@ -109,6 +109,6 @@ I'm a 18 year old student pursuing BTech in Computer Science 🎓 from AKTU Univ
 
 <div align="center">
 
-### Visit my company [PVA INDIA](https://pvaindia.com) & Community [The Epic Code](https://theepiccode.com)
+### Visit our Community [The Epic Code](https://theepiccode.com)
 
 </div>
