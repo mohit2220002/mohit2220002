@@ -13,8 +13,8 @@ I'm a 18 year old student pursuing BTech in Computer Science 🎓 from AKTU Univ
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with C Language, C++, <br /> Audio editing etc.
-- 🚀 &nbsp; I’m currently learning Python and after that will be moving to Swift.
+- 🛠 &nbsp; I’m currently working with C, Python, C++, <br /> Audio editing etc.
+- 🚀 &nbsp; I’m currently exploring Cloud Computing and after that will be moving to AWS.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/mohit2220002).
 <!--- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.-->
 - 📫 &nbsp; How to reach me: ms2441820@gmail.com OR mohit.tanda@icloud.com
