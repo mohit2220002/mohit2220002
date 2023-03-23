@@ -86,15 +86,15 @@ I'm a 18 year old student pursuing BTech in Computer Science 🎓 from AKTU Univ
 	    <li><b>Laptop: </b> MacBook Air (M1)</li>
   	    <li><b>Browser: </b> Safari & Brave </li>
 	    <li><b>Code Editor:</b> Xcode, VSCode & Pycharm</li>
-	    <li><b>To Stay Updated:</b> <a href="https://theepiccode.com">The Epic Code</a></li>
+	    <!--<li><b>To Stay Updated:</b> <a href="https://theepiccode.com">The Epic Code</a></li>-->
 	    <br />
 	</ul>	
 </details>
 
 #
 
-<div align="center">
+<!--<div align="center">
 
 ### Visit our Community [The Epic Code](https://theepiccode.com)
 
-</div>
+</div>-->
