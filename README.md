@@ -32,7 +32,6 @@ I'm a 18 year old student pursuing BTech in Computer Science 🎓 from AKTU Univ
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
-<code><img height="27" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 <!--
@@ -83,10 +82,10 @@ I'm a 18 year old student pursuing BTech in Computer Science 🎓 from AKTU Univ
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> macOS Monterey </li>
+  	    <li><b>OS:</b> macOS Ventura </li>
 	    <li><b>Laptop: </b> MacBook Air (M1)</li>
-  	    <li><b>Browser: </b> Safari </li>
-	    <li><b>Code Editor:</b> Xcode & VSCode</li>
+  	    <li><b>Browser: </b> Safari & Brave </li>
+	    <li><b>Code Editor:</b> Xcode, VSCode & Pycharm</li>
 	    <li><b>To Stay Updated:</b> <a href="https://theepiccode.com">The Epic Code</a></li>
 	    <br />
 	</ul>	
